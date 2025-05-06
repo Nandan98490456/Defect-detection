@@ -4,7 +4,3 @@ Pillow
 numpy
 opencv-python
 torch
-scikit-learn
-matplotlib
-seaborn
-tensorflow
