@@ -3,7 +3,7 @@ ultralytics
 Pillow
 numpy
 opencv-python
-pytorch
+torch
 scikit-learn
 matplotlib
 seaborn
