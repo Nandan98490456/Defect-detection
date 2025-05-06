@@ -4,3 +4,6 @@ Pillow
 numpy
 opencv-python
 torch
+gdown
+opencv-python-headless
+lxml
