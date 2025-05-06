@@ -5,7 +5,7 @@ import numpy as np
 from collections import defaultdict
 
 # Load YOLOv8 model
-model = YOLO(r"C:\Users\sai\Desktop\best.pt")
+model = YOLO("best.pt")
 
 # Page config
 st.set_page_config(
